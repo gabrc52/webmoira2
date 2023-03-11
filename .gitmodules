@@ -1,0 +1,3 @@
+[submodule "backend/python-moira"]
+	path = backend/python-moira
+	url = https://github.com/mit-scripts/python-moira/
