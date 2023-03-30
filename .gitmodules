@@ -1,3 +1,0 @@
-[submodule "backend/python3-moira"]
-	path = backend/python3-moira
-	url = https://github.com/gabrc52/python3-moira
